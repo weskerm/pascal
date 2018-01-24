@@ -1,4 +1,4 @@
-Program Pzim ;
+Program cauculos ;
 var valor,par,impar: array[0..9999] of integer;
 var data,count,i,p,im:integer;
 var media_p,media_i,media_total:real;
